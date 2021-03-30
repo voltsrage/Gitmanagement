@@ -1,1 +1,2 @@
 This is file2.txt
+I made changes to file 2
